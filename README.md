@@ -17,5 +17,5 @@ also remove the code to set/load wallpapers from Form3 and Form15
 3. Put few missing button image files into the Resources folder (name/type can be found in Error list). Alternatively,
 you can open Form3.Designer form and remove/comment out the ImageLarge/Image property code
 
-This was my first attempt at creating a virtual operating environment with my friend Kshitij. The code is licensed 
+This was my first attempt at creating/simulating an operating environment with my friend Kshitij. The code is licensed 
 under GPL v2: http://www.gnu.org/licenses/gpl-2.0.html

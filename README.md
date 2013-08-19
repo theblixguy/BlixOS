@@ -18,3 +18,5 @@ This was my first attempt at creating a virtual operating environment with my fr
 :: Main source code author: Suyash Srijan                                                      
 :: Start date: 18th May 2010                                                                       
 :: Lines of code: 10000+
+
+The code is licensed under GPL v2: http://www.gnu.org/licenses/gpl-2.0.html

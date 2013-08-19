@@ -17,5 +17,11 @@ also remove the code to set/load wallpapers from Form3 and Form15
 3. Put few missing button image files into the Resources folder (name/type can be found in Error list). Alternatively,
 you can open Form3.Designer form and remove/comment out the ImageLarge/Image property code
 
+**IMPORTANT NOTES:**
+
+1. It's incomplete so many things might not even work or work incorrectly/weirdly.
+2. Your PC/laptop's screen resolution should be 1366x768, not higher or lower than that because the positions are hardcoded
+and the code to adjust content according to the resolution isn't present.
+
 This was my first attempt at creating/simulating an operating environment with my friend Kshitij. The code is licensed 
 under GPL v2: http://www.gnu.org/licenses/gpl-2.0.html

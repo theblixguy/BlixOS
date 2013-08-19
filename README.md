@@ -15,6 +15,6 @@ you can open Form3.Designer form and remove/comment out the ImageLarge/Image pro
 
 This was my first attempt at creating a virtual operating environment with my friend Kshitij. 
 
-Main source code author: Suyash Srijan
-Start date: 18th May 2010
-Lines of code: 10000+
+:: Main source code author: Suyash Srijan                                                      
+:: Start date: 18th May 2010                                                                       
+:: Lines of code: 10000+

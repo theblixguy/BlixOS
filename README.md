@@ -3,7 +3,8 @@ BlixOS
 
 :: Main source code author: Suyash Srijan                                                      
 :: Start date: 18th May 2010                                                                       
-:: Lines of code: 10000+
+:: Lines of code: 10000+                               
+:: Language: Visual Basic.NET w/ some libraries written using C#/C++
 
 This is the source code of the first version of BlixOS I wrote. It's a mess, I know. I don't have the latest source code
 with me at the moment since my old external hard drive got damaged and I've been trying to recover data from that. If I 

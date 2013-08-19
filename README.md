@@ -5,7 +5,7 @@ This is the source code of the first version of BlixOS I wrote. It's a mess, I k
 with me at the moment since my old external hard drive got damaged and I've been trying to recover data from that. If I 
 am successful, then I'll upload the latest code as well.
 
-The source code WILL NOT compile unless you do the following:
+The source code **WILL NOT** compile unless you do the following:
 
 1. Install KryptonToolkit (latest version) and add a reference to ComponentFactory.Krypton.Toolkit.dll
 2. Put 15 wallpapers in the Resources folder (named wall1, wall2, wall3, ... wall15) in JPG format. Alternatively, you can 
